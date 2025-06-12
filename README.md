@@ -19,12 +19,12 @@ Each repository includes a dedicated README with details about its purpose and h
 
 ------------------------------------------------------
 
-# 👋 Ahoj, jsem @MiRdACzBPR
+# 👋 Ahoj, jmenuji se Miroslav Liška
 
-Jmenuji se **Miroslav Liška** a jsem vývojář v agentuře **BPR – BOHEMIA PUBLIC RELATION S.R.O.**.  
+Jsem vývojář v agentuře **BPR – BOHEMIA PUBLIC RELATION S.R.O.**  
 Na vývoji aplikací spolupracuji s kolegou **Ondřejem Bímem**.
 
-Společně pracujeme na nástrojích, které pomáhají zefektivnit práci naší agentury a přinášejí moderní digitální řešení.
+Společně pracujeme na nástrojích, které zefektivňují práci naší agentury a přinášejí moderní digitální řešení.
 
 ## 🛠 Technologie, které používáme
 
@@ -33,9 +33,10 @@ Společně pracujeme na nástrojích, které pomáhají zefektivnit práci naš�
 
 ## 📂 Co tu najdete
 
-V mých repozitářích najdete projekty související s vývojem aplikací v rámci BPR. Každý projekt má vlastní README s popisem účelu a použití.
+V mých repozitářích najdete projekty související s vývojem aplikací v rámci BPR.  
+Každý projekt obsahuje vlastní README s popisem účelu a použití.
 
 ---
 
-> 💼 Tento GitHub profil slouží jako vývojová základna pro projekty BPR – BOHEMIA PUBLIC RELATION S.R.O.
+> 💼 Tento GitHub profil slouží jako vývojová základna pro projekty **BPR – BOHEMIA PUBLIC RELATION S.R.O.**
 
