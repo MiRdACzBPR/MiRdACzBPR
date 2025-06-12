@@ -1,21 +1,24 @@
-# 👋 Hi, I'm @MiRdACzBPR
+# 👋 Hello, my name is Miroslav Liška
 
-My name is **Miroslav Liška**, and I’m a developer at **BPR – BOHEMIA PUBLIC RELATION S.R.O.**  
-I collaborate with my colleague **Ondřej Bím** on the development of various applications, not only for our agency but also for internal tools and other digital solutions.
+I'm a developer at **BPR – BOHEMIA PUBLIC RELATION S.R.O.**,  
+working alongside my colleague **Ondřej Bím** on applications and digital tools for our agency and beyond.
+
+Together, we build systems that improve internal workflows and deliver modern solutions for various use cases.
 
 ## 🛠 Technologies We Use
 
 - ✅ [Nette](https://nette.org) – a secure and structured PHP framework
-- ✅ [Latte](https://latte.nette.org) – a clean and powerful templating engine
+- ✅ [Latte](https://latte.nette.org) – a clean and modern templating engine
 
-## 📂 What You'll Find Here
+## 📂 What You’ll Find Here
 
-This GitHub profile contains projects related to the development work we do at BPR.  
-Each repository includes a dedicated README with details about its purpose and how to use it.
+This GitHub profile contains repositories related to the development work we do at BPR.  
+Each project includes its own README with a detailed description and instructions.
 
 ---
 
-> 💼 This GitHub profile represents the development activities of **BPR – BOHEMIA PUBLIC RELATION S.R.O.**
+> 💼 This profile represents the development work of **BPR – BOHEMIA PUBLIC RELATION S.R.O.**
+
 
 ------------------------------------------------------
 
