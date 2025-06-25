@@ -2,10 +2,10 @@
 
 I'm a developer at **BPR – BOHEMIA PUBLIC RELATION S.R.O.**,  
 - Web geek with over 10 years of experience. From my first forays into HTML5 & CSS3, through PHP, MySQL and JavaScript, to fine-tuning projects with Nette + Latte. I love designing and building custom CMSs and tailor-made systems.
-working alongside my colleague **Ondřej Bím** on applications and digital tools for our agency and beyond.
+
 - I’ve been at BPR for over three years, programming and coding both modern websites and powerful internal systems for multinational clients.
 
-Together, we build systems that improve internal workflows and deliver modern solutions for various use cases.
+Working alongside my colleague **Ondřej Bím** on applications and digital tools for our agency and beyond.Together, we build systems that improve internal workflows and deliver modern solutions for various use cases.
 
 ## 🛠 Technologies We Use
 
@@ -29,9 +29,8 @@ Each project includes its own README with a detailed description and instruction
 Jsem vývojář v agentuře **BPR – BOHEMIA PUBLIC RELATION S.R.O.**  
 – webový geek s více jak 10 lety zkušeností. Z rodinných prvních HTML5 & CSS3 přes PHP, MySQL a JavaScript až po ladění projektů v Nette + Latte. Miluju navrhovat a stavět vlastní CMS a systémy na míru.
 - U BPR jsem přes tři roky, kde pro nadnárodní klienty programuji a kóduju jak moderní weby, tak výkonné interní systémy.
-Na vývoji aplikací spolupracuji s kolegou **Ondřejem Bímem**.
 
-Společně pracujeme na nástrojích, které zefektivňují práci naší agentury a přinášejí moderní digitální řešení.
+Na vývoji aplikací spolupracuji s kolegou **Ondřejem Bímem**. Společně pracujeme na nástrojích, které zefektivňují práci naší agentury a přinášejí moderní digitální řešení.
 
 ## 🛠 Technologie, které používáme
 
